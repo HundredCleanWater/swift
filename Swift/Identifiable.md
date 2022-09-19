@@ -8,14 +8,19 @@ swiftUI Tutorials를 보면서 swiftUI에 대해 연습을 하던 중 동적리�
 
 직접적으로 예시를 보면서 어떻게 사용을 하는지 보도록 하겠습니다.
 
-[##_Image|kage@kx4HE/btrMcQ40pLs/Y8Mldj5BrdYUY5b2BCYG20/img.png|CDM|1.3|{"originWidth":414,"originHeight":329,"style":"alignCenter"}_##]
+![image](https://user-images.githubusercontent.com/90129613/191139296-6d64bbb1-8ad2-4ae7-bdc0-7bea7adfcd0e.png)
+
 
 기존에는 위와같이 id값을 데이터와 함께 전달을 하는 방식으로 진행을 하면서 데이터를 식별 할 수 있도록 만들었습니다. 
 
-[##_Image|kage@cqeBn8/btrMbzJc2VC/235ZpqwPpHmkr0VzfTshi0/img.png|CDM|1.3|{"originWidth":490,"originHeight":160,"style":"alignCenter","filename":"스크린샷 2022-09-15 오후 2.43.10.png"}_##]
+![image](https://user-images.githubusercontent.com/90129613/191139171-0a2fdf10-46af-4711-852e-0ec61b81e91b.png)
+
 
 하지만 위와 같이 데이터를 읽을 때 디코딩 할 속성 Identifiable만 추가를 하게 된다면 
 
-[##_Image|kage@ctRKqV/btrMaIl7aa4/ibLbeGaLtJXkO4lt8W4hmk/img.png|CDM|1.3|{"originWidth":413,"originHeight":348,"style":"alignCenter","filename":"스크린샷 2022-09-15 오후 2.43.28.png"}_##][##_Image|kage@b9yMVi/btrMaJ6n59y/LJw3qcalv6QNcb2fWKSnk0/img.png|CDM|1.3|{"originWidth":301,"originHeight":541,"style":"alignCenter","filename":"스크린샷 2022-09-15 오후 2.44.45.png"}_##]
+![image](https://user-images.githubusercontent.com/90129613/191139218-ef5e5bdd-f036-4cd1-b8f2-2ef6628bb384.png)
+
+
+![image](https://user-images.githubusercontent.com/90129613/191139209-ea78e15f-00f2-4ccd-8861-715764f09541.png)
 
 id값을 삭제를 하더라도 데이터를 식별 할 수 있게 됩니다.
